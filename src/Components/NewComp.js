@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
 import BellA from "../Images/BellA.png";
 import BellB from "../Images/BellB.png";
 
@@ -7,7 +7,7 @@ export class NewComp extends Component {
      super(props);
 
       this.state = {
-        message: "subscribe to simplilearn!",
+        message: "subscribe to simplilearn! And simplify your learning!",
         sub: "subscribe",
         imageURL: BellA, 
       };
@@ -45,4 +45,4 @@ imageChange= ()=> {
   }
 }
 
-export default NewComp;
+export default NewComp;*/
